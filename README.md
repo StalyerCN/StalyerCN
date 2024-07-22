@@ -14,6 +14,6 @@
 </a>
 
 <p align="center">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=omni" alt="User stats" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=omni" alt="Top languages" />
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=StalyerCN&count_private=true&show_icons=true" alt="User stats" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StalyerCN&layout=compact" alt="Top languages" />
 </p>
