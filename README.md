@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=StalyerCN&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
+    <img width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=StalyerCN&data=followers,repositories,stars,commits&theme=serika" alt="GitHub WidgetBox" />
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
           <img width="33%" src="https://github-widgetbox.vercel.app/api/skills?tools=mongodb,redis,git,wordpress,gradle&includeNames=true" alt="GitHub WidgetBox" />
