@@ -8,7 +8,7 @@
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
           <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=mongodb,redis,git,wordpress,gradle&includeNames=true" alt="GitHub WidgetBox" />
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,js,java,python,c,mysql,kotlin,markdown,json,yaml,xml,bash&includeNames=true" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,java,python,html,kotlin,yaml,mysql,lua&includeNames=true" alt="GitHub WidgetBox" />
   </a>
 </p>
 
